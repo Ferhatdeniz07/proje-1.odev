@@ -1,3 +1,3 @@
-# proje-1.odev
+# Veri_Organizasyonu
 proje-1
 
